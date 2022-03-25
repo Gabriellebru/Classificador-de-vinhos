@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Classificador_de_vinhos</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Classificador de vinhosML.Model\Classificador de vinhosML.Model.csproj" />
+  </ItemGroup>
+
+</Project>

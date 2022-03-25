@@ -1,0 +1,11 @@
+C:\Users\luanc\source\repos\Classificador de vinhos\Classificador de vinhosML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\luanc\source\repos\Classificador de vinhos\Classificador de vinhosML.Model\bin\Debug\netstandard2.0\Classificador de vinhosML.Model.deps.json
+C:\Users\luanc\source\repos\Classificador de vinhos\Classificador de vinhosML.Model\bin\Debug\netstandard2.0\Classificador de vinhosML.Model.dll
+C:\Users\luanc\source\repos\Classificador de vinhos\Classificador de vinhosML.Model\bin\Debug\netstandard2.0\Classificador de vinhosML.Model.pdb
+C:\Users\luanc\source\repos\Classificador de vinhos\Classificador de vinhosML.Model\obj\Debug\netstandard2.0\Classificador de vinhosML.Model.csproj.AssemblyReference.cache
+C:\Users\luanc\source\repos\Classificador de vinhos\Classificador de vinhosML.Model\obj\Debug\netstandard2.0\Classificador de vinhosML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanc\source\repos\Classificador de vinhos\Classificador de vinhosML.Model\obj\Debug\netstandard2.0\Classificador de vinhosML.Model.AssemblyInfoInputs.cache
+C:\Users\luanc\source\repos\Classificador de vinhos\Classificador de vinhosML.Model\obj\Debug\netstandard2.0\Classificador de vinhosML.Model.AssemblyInfo.cs
+C:\Users\luanc\source\repos\Classificador de vinhos\Classificador de vinhosML.Model\obj\Debug\netstandard2.0\Classificador de vinhosML.Model.csproj.CoreCompileInputs.cache
+C:\Users\luanc\source\repos\Classificador de vinhos\Classificador de vinhosML.Model\obj\Debug\netstandard2.0\Classificador de vinhosML.Model.dll
+C:\Users\luanc\source\repos\Classificador de vinhos\Classificador de vinhosML.Model\obj\Debug\netstandard2.0\Classificador de vinhosML.Model.pdb
